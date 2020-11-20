@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#wrapper{
+    width: 700px;
+}
+h2{
+    text-align: end;
+}
+h3{
+    color: green;
+}
